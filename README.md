@@ -1,1 +1,1 @@
-log into shell
+log into shell basics
