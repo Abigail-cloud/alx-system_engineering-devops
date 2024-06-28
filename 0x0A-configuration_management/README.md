@@ -1,0 +1,1 @@
+Configuration management in shell scripting involves using shell scripts to automate the process of configuring systems. This can include tasks such as installing software, setting system configurations, and managing files and services
