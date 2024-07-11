@@ -41,7 +41,7 @@ frontend Frontend
 
 # Configure Frontend listen all *:443 and solve with Backend
 frontend Frontend_secure
-        bind *:443 ssl crt /etc/letsencrypt/live/www.seventeam.tech/load-balancer.pem
+        bind *:443 ssl crt /etc/letsencrypt/live/www.holberton.online/load-balancer.pem
         http-request set-header X-Forwarded-Proto https
         default_backend Backend
 
